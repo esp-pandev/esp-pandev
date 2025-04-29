@@ -70,12 +70,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EugenePande&show_icons=true&theme=gradient" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esp-pandev&show_icons=true&theme=gradient" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EugenePande&theme=gradient" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenePande&layout=compact&theme=gradient" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esp-pandev&layout=compact&theme=gradient" height="150" alt="Top Languages" />
 </p>
 
 ---
