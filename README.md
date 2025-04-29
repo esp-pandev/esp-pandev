@@ -17,7 +17,7 @@
 
 ### 📜 About Me
 
-🎯 I’m passionate about technology and solving real-world problems through innovative software and database systems.  
+🎯 I’m passionate about technology and contributing in solving real-world problems through tech solutions.  
 📈 I aim to become a recognized expert in web development and data-driven systems.  
 🌐 Based in Port Moresby, Papua New Guinea  
 📚 Always learning — currently exploring more in Cloud Solutions and Cybersecurity.
