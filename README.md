@@ -44,7 +44,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### ☁️ Other Skills  
-`SDLC` • `MVC` • `Git` • `Cybersecurity (Beginner)` • `Cloud (Beginner)` • `Team Leadership` • `Project Management`
+`SDLC` • `MVC` • `Git` • `Cybersecurity (Beginner)` • `Cloud (Beginner)` • `Team Leadership` • `Project Management` . `High Availability & Disaster Recovery Solutions`
 
 ---
 
