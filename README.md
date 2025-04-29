@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠 Skills & Technologies
+### 🛠 Skills & Tech Stacks
 
 #### 💻 Languages & Frameworks  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,7 +61,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [eugenepande@gmail.com](mailto:eugenepande@gmail.com)  
-- 📱 Phone: (+675) 7344 9096 | 7723 5571  
+- 📱 Phone: (+675) 7344 9096
 - 📍 Location: Port Moresby, Papua New Guinea  
 - 💼 Open to freelance, collaborations, and exciting tech opportunities!
 
