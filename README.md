@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Eugene Pande</h1>
 
 ###
 
-<p align="left">Eugene Pande<br><br>Developer: Web Applications & Database Systems</p>
+<p align="left"><br><br>Developer: Web Applications & Database Systems</p>
 
 ###
 
-<h2 align="left">I am passionate about technology and focused on building a rewarding career in ICT.<br>My goal is to continuously grow my technical skills, solve real-world problems through innovative solutions, and make a meaningful impact in the tech industry.<br>I aim to become a recognized expert in software development and database systems.</h2>
+<h4 align="left">I am passionate about technology and focused on building a rewarding career in ICT.<br>My goal is to continuously grow my technical skills, solve real-world problems through innovative solutions, and make a meaningful impact in the tech industry.<br>I aim to become a recognized expert in software development and database systems.</h4>
 
 ###
 
