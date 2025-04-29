@@ -8,7 +8,7 @@
   <h1>Hi 👋, I'm Eugene Pande</h1>
   <h3>Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=true&width=500&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Systems+Analysis+&+Design;Database+System+Designer;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=true&width=500&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Systems+Analysis+%26+Design;Database+System+Designer;Let's+build+something+amazing!" alt="Typing SVG" />
 </td>
 </tr>
 </table>
