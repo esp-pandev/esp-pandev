@@ -1,67 +1,79 @@
-<h1 align="left">Eugene Pande</h1>
+<!-- Profile Header with Animation -->
+<h1 align="center">Hi 👋, I'm Eugene Pande</h1>
+<h3 align="center">Technical Development Lead | Web & Database Systems Developer | 🇵🇬 PNG</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Passionate+about+tech+%F0%9F%92%BB;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+%F0%9F%93%9A;Let's+build+something+amazing+!" alt="Typing SVG" />
+</p>
 
-<p align="left"><br><br>Developer: Web Applications & Database Systems</p>
+---
 
-###
+### 💼 About Me
 
-<h4 align="left">I am passionate about technology and focused on building a rewarding career in ICT.<br>My goal is to continuously grow my technical skills, solve real-world problems through innovative solutions, and make a meaningful impact in the tech industry.<br>I aim to become a recognized expert in software development and database systems.</h4>
+🎯 I’m passionate about technology and solving real-world problems through innovative software and database systems.  
+📈 I aim to become a recognized expert in web development and data-driven systems.  
+🌐 Based in Port Moresby, Papua New Guinea  
+📚 Always learning — currently exploring more in cloud & cybersecurity.
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+### 🛠 Skills & Tech Stack
 
-###
+#### 💻 Languages & Frameworks  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 
-<h2 align="left">Tech Stack</h2>
+#### 🧠 Databases  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-###
+#### 🌐 CMS  
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+#### ☁️ Tools & Other Skills  
+`SDLC` • `MVC` • `Git` • `Cybersecurity (Beginner)` • `Cloud (Beginner)` • `Team Leadership` • `Project Management`
 
-###
+---
+
+### 📌 Featured Projects
+
+- **Censorship Management Information System (CMIS)**  
+  Developed a full-featured information system for the Office of Censorship — leading the system design and development.
+
+- **OLA Database**  
+  Built a registry and records database system for the Office Library and Archives.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [eugenepande@gmail.com](mailto:eugenepande@gmail.com)  
+- 🌍 Port Moresby, Papua New Guinea  
+- 💼 Open to freelance and collaborative opportunities
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EugenePande&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugenePande&theme=tokyonight" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenePande&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EugenePande&label=Visitors&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
