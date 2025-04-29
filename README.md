@@ -1,10 +1,17 @@
-<!-- Profile Header with Orange Typing Animation -->
-<h1 align="center">Hi 👋, I'm Eugene Pande</h1>
-<h3 align="center">Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
+<!-- Profile Header with Image + Orange Typing Text -->
+<table>
+<tr>
+<td width="180px">
+  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/eugene-coding.png" alt="Eugene Coding" width="160"/>
+</td>
+<td>
+  <h1>Hi 👋, I'm Eugene Pande</h1>
+  <h3>Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&height=50&color=FFA500&vCenter=true&multiline=false&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=true&width=500&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -17,7 +24,7 @@
 
 ---
 
-### 🛠 Skills & Tech Stacks
+### 🛠 Skills & Technologies
 
 #### 💻 Languages & Frameworks  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +43,7 @@
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-#### ☁️ Other Skills
+#### ☁️ Other Skills  
 `SDLC` • `MVC` • `Git` • `Cybersecurity (Beginner)` • `Cloud (Beginner)` • `Team Leadership` • `Project Management`
 
 ---
@@ -54,7 +61,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [eugenepande@gmail.com](mailto:eugenepande@gmail.com)  
-- 📱 Phone: (+675) 7344 9096
+- 📱 Phone: (+675) 7344 9096 | 7723 5571  
 - 📍 Location: Port Moresby, Papua New Guinea  
 - 💼 Open to freelance, collaborations, and exciting tech opportunities!
 
