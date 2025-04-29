@@ -1,9 +1,9 @@
 <!-- Profile Header with Image + Orange Typing Text -->
 <table>
-<tr><!--
+<tr>
 <td width="180px">
-  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/eugene-coding.png" alt="Eugene Coding" width="160"/>
-</td>-->
+  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/esp_pandev.jpg" alt="Eugene Coding" width="160"/>
+</td>
 <td>
   <h1>Hi 👋, I'm Eugene Pande</h1>
   <h3>Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
