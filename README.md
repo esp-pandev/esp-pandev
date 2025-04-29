@@ -1,9 +1,9 @@
-<!-- Profile Header with Rainbow Gradient Typing Animation -->
+<!-- Profile Header with Orange Typing Animation -->
 <h1 align="center">Hi 👋, I'm Eugene Pande</h1>
-<h3 align="center">Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
+<h3 align="center">Technical Development Lead | Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&height=50&color=8A2BE2&vCenter=true&multiline=false&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&height=50&color=FFA500&vCenter=true&multiline=false&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [eugenepande@gmail.com](mailto:eugenepande@gmail.com)  
-- 📱 Phone: (+675) 7344 9096  
+- 📱 Phone: (+675) 7344 9096 | 7723 5571  
 - 📍 Location: Port Moresby, Papua New Guinea  
 - 💼 Open to freelance, collaborations, and exciting tech opportunities!
 
