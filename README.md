@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Passionate+about+tech+%F0%9F%92%BB;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+%F0%9F%93%9A;Let's+build+something+amazing+!" alt="Typing SVG" />
 </p>
 
+
+
+
+
 ---
 
 ### 💼 About Me
