@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td width="180px">
-  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/esp_pandev.jpg" alt="ESP" width="160"/>
+  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/esp.jpg" alt="ESP" width="160"/>
 </td>
 <td>
   <h1>Hi 👋, I'm Eugene Pande</h1>
