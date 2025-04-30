@@ -1,7 +1,7 @@
 <!-- Profile Header with Image + Orange Typing Text -->
 
 <h1 align="center">Hi 👋, I'm Eugene Pande</h1>
-<h3 align="center">Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
+<h3 align="center">Web & Database Systems Developer | Papua New Guinea <img src="https://flagcdn.com/w20/pg.png" alt="🇵🇬" style="vertical-align: middle; width: 20px;"></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=FFA500&lines=Passionate+about+Technology+💻;Web+%26+Software+Developer;Database+System+Designer;Let's+build+something+amazing!" alt="Typing SVG" />
