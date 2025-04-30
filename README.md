@@ -1,7 +1,4 @@
 <!-- Profile Header with Image + Orange Typing Text -->
-<p align="center">
-  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/coding.jpg" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Eugene Pande</h1>
 <h3 align="center">Technical Development Lead | Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
@@ -89,4 +86,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EugenePande&label=Profile+Visitors&color=brightgreen" alt="Visitor counter" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/coding.jpg" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
 </p>
