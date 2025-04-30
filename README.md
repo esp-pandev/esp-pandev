@@ -4,7 +4,7 @@
 <h3 align="center">Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=FFA500&lines=Passionate+about+Technology+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
 </p>
 
 ---
