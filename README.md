@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/coding.jpg" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
+  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/coding.jpg" alt="Eugene Coding Banner" style="height:250px;" />
 </p>
