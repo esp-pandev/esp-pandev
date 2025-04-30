@@ -1,17 +1,15 @@
 <!-- Profile Header with Image + Orange Typing Text -->
-<table>
-<tr>
-<td width="180px">
-  <img src="https://github.com/esp-pandev/esp-pandev/blob/main/assets/esp.JPG" alt="ESP" width="160"/>
-</td>
-<td>
-  <h1>Hi 👋, I'm Eugene Pande</h1>
-  <h3>Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
+<!-- Full-Width Header Image -->
+<p align="center">
+  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/eugene-coding.png" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=true&width=500&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Systems+Analysis+%26+Design;Database+System+Designer;Let's+build+something+amazing!" alt="Typing SVG" />
-</td>
-</tr>
-</table>
+<h1 align="center">Hi 👋, I'm Eugene Pande</h1>
+<h3 align="center">Technical Development Lead | Web & Database Systems Developer | 🇵🇬 Papua New Guinea</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=FFA500&lines=Passionate+about+tech+💻;Web+%26+Software+Developer;Database+System+Designer;Lifelong+Learner+📚;Let's+build+something+amazing!" alt="Typing SVG" />
+</p>
 
 ---
 
