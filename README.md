@@ -1,6 +1,6 @@
 <!-- Profile Header with Image + Orange Typing Text -->
 <p align="center">
-  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/eugene-coding.png" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
+  <img src="https://github.com/EugenePande/EugenePande/blob/main/assets/coding.jpg" alt="Eugene Coding Banner" style="width:100%; max-width:1000px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Eugene Pande</h1>
